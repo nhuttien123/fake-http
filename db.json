@@ -1,0 +1,444 @@
+{
+  "loai": [
+    {
+      "id": 1,
+      "name": "Bánh mì",
+      "img": "i3.jpg",
+      "thutu": 1,
+      "anhien": 1
+    },
+    {
+      "id": 2,
+      "name": "Bánh kem",
+      "img": "i4.jpg",
+      "thutu": 1,
+      "anhien": 1
+    },
+    {
+      "id": 3,
+      "name": "Bánh ngọt",
+      "img": "i2.jpg",
+      "thutu": 1,
+      "anhien": 1
+    },
+    {
+      "id": 4,
+      "name": "Bánh quy",
+      "img": "i1.jpg",
+      "thutu": 1,
+      "anhien": 1
+    }
+  ],
+  "binhluan": [
+    {
+      "noidung": "asdads",
+      "username": "Nhựt Tiến",
+      "thoigian": "2021-08-05T15:55:31.180Z",
+      "idsp": "1",
+      "id": 1
+    },
+    {
+      "noidung": "Đóng gói gọn nhẹ , đánh giá cao",
+      "username": "Lam Nhut Tien (FPL HCM)",
+      "thoigian": "2021-08-05T15:57:42.214Z",
+      "idsp": "2",
+      "id": 2
+    },
+    {
+      "noidung": "Sản phẩm đẹp",
+      "username": "Nhựt Tiến",
+      "thoigian": "2021-08-05T16:13:00.014Z",
+      "idsp": "3",
+      "id": 3
+    },
+    {
+      "noidung": "Sản phẩm tốt",
+      "username": "Nhựt Tiến",
+      "thoigian": "2021-08-06T06:43:58.650Z",
+      "idsp": "2",
+      "id": 4
+    },
+    {
+      "noidung": "Ngon và không béo !",
+      "username": "Nhựt Tiến",
+      "thoigian": "2021-08-06T06:49:30.492Z",
+      "idsp": "5",
+      "id": 5
+    },
+    {
+      "noidung": "Sản phẩm chất lượng\nNgon miệng",
+      "username": "Nhựt Tiến",
+      "thoigian": "2021-08-06T06:50:38.242Z",
+      "idsp": "7",
+      "id": 6
+    },
+    {
+      "noidung": "Nice !!!",
+      "username": "Nhựt Tiến",
+      "thoigian": "2021-08-06T06:54:25.259Z",
+      "idsp": "2",
+      "id": 7
+    },
+    {
+      "noidung": "Bánh hơi mềm và hơi ngọt =))",
+      "username": "Nhựt Tiến",
+      "thoigian": "2021-08-06T06:55:09.295Z",
+      "idsp": "6",
+      "id": 8
+    },
+    {
+      "noidung": "Sản phẩm chất lượng",
+      "username": "Nhựt Tiến",
+      "thoigian": "2021-08-06T10:58:17.761Z",
+      "idsp": "10",
+      "id": 9
+    },
+    {
+      "noidung": "Good",
+      "username": "Nhựt Tiến",
+      "thoigian": "2021-08-10T11:45:49.607Z",
+      "idsp": "3",
+      "id": 10
+    }
+  ],
+  "giohang": [
+    {
+      "tenkh": "Nhựt Tiến",
+      "diachi": "Ho Chi Minh",
+      "sdt": "0949814865",
+      "sanpham": "{\"1\":{\"spId\":1,\"quantity\":1},\"2\":{\"spId\":2,\"quantity\":1}}",
+      "thoigian": "2021-08-06T08:00:33.545Z",
+      "id": 1
+    },
+    {
+      "tenkh": "Nhựt Tiến",
+      "diachi": "Ho Chi Minh",
+      "sdt": "0949814865",
+      "sanpham": "{\"1\":{\"spId\":5,\"quantity\":1},\"2\":{\"spId\":2,\"quantity\":1}}",
+      "thoigian": "2021-08-07T08:00:33.545Z",
+      "id": 2
+    },
+    {
+      "tenkh": "Lam Nhut Tien (FPL HCM)",
+      "diachi": "Khu phố 1 , thị trấn Tân Biên",
+      "sdt": "0914225336",
+      "sanpham": "{\"2\":{\"spId\":2,\"quantity\":1}}",
+      "thoigian": "2021-08-06T14:47:06.600Z",
+      "id": 3
+    },
+    {
+      "tenkh": "Lam Nhut Tien (FPL HCM)",
+      "diachi": "Thị Trấn Tây Ninh",
+      "sdt": "0949814865",
+      "sanpham": "[{\"spId\":1,\"quantity\":4}]",
+      "thoigian": "2021-08-06T14:52:47.940Z",
+      "id": 4
+    },
+    {
+      "tenkh": "Nhựt Tiến",
+      "diachi": "Quận 10 , tp HCM",
+      "sdt": "0949228901",
+      "sanpham": "[{\"spId\":6,\"quantity\":3}]",
+      "thoigian": "2021-08-07T10:49:49.637Z",
+      "id": 5
+    },
+    {
+      "tenkh": "Nhựt Tiến",
+      "diachi": "Hồ Chí minh",
+      "sdt": "0949814865",
+      "sanpham": "{\"3\":{\"spId\":3,\"quantity\":2}}",
+      "thoigian": "2021-08-10T11:46:21.661Z",
+      "id": 6
+    }
+  ],
+  "sanpham": [
+    {
+      "id": 1,
+      "name": "Bánh vị phô mai",
+      "price": 54000,
+      "oldprice": 80000,
+      "img": "i5.png",
+      "des": "Hương vị phô mai thơm ngon hấp dẫn,Đảm bảo vệ sinh an toàn thực phẩm. Bổ sung nguồn dinh dưỡng dồi dào",
+      "hot": 0,
+      "new": 0,
+      "comment": [],
+      "idloai": 3
+    },
+    {
+      "id": 2,
+      "name": "Bánh Kinh Đô Mini Oreo Vị Chocolate",
+      "price": 54000,
+      "oldprice": 80000,
+      "img": "i6.png",
+      "des": "Hương vị socola thơm ngon hấp dẫn,Đảm bảo vệ sinh an toàn thực phẩm. Bổ sung nguồn dinh dưỡng dồi dào",
+      "hot": 1,
+      "new": 0,
+      "comment": [],
+      "idloai": 2
+    },
+    {
+      "id": 3,
+      "name": "Bánh Trứng Tik-Tok Sầu Riêng",
+      "price": 54000,
+      "oldprice": 80000,
+      "img": "i7.png",
+      "des": "Lớp bánh trứng giòn tan, nồng nàn hương vị. Độ ngọt vừa phải dễ dàng kết hợp các loại trà, nước. Bao bì tiện lợi, đẹp mắt, thích hợp làm quà tặng ngày Tết. Nguyên liệu chọn lọc, dây chuyền sản xuất hiện đại",
+      "hot": 1,
+      "new": 0,
+      "comment": [],
+      "idloai": 2
+    },
+    {
+      "id": 4,
+      "name": "Bánh gấu chùm ngây Morice",
+      "price": 28000,
+      "oldprice": 32000,
+      "img": "i8.png",
+      "des": "Thơm ngon, giòn béo. Nhiều dưỡng chất quý giá từ chùm ngây tốt cho sức khoẻ. Món ăn bổ dưỡng cho cả người lớn và trẻ em",
+      "hot": 1,
+      "new": 0,
+      "comment": [],
+      "idloai": 3
+    },
+    {
+      "id": 5,
+      "name": "Bánh Bơ Trứng Richy ",
+      "price": 39000,
+      "oldprice": 50000,
+      "img": "i9.png",
+      "des": "Dây chuyền sản xuất hiện đại, Nguyên liệu chất lượng được chọn lọc kỹ lưỡng. Cung cấp các chất dinh dưỡng thiết yếu, tốt cho sức khỏe con người. Không chứa đường hóa học, không sử dụng các hóa chất độc hại",
+      "hot": 1,
+      "new": 0,
+      "comment": [],
+      "idloai": 2
+    },
+    {
+      "id": 6,
+      "name": "Bánh Gạo Topokki - Yopokki Vị Cay Ngọt",
+      "price": 20000,
+      "oldprice": 35000,
+      "img": "i11.png",
+      "des": "Topokki là món bánh gạo rất phổ biến và được nhiều người yêu thích tại Hàn Quốc, Những miếng bánh dẻo hòa quyện cùng nước sốt đậm đà, ngon miệng. Ăn chay, quà tặng, món ăn nhanh (fastfood). Có thể dùng cho người ăn chay",
+      "hot": 0,
+      "new": 1,
+      "comment": [],
+      "idloai": 4
+    },
+    {
+      "id": 7,
+      "name": "Bánh mì ăn kiêng",
+      "price": 5000,
+      "oldprice": 10000,
+      "img": "i12.png",
+      "des": "Bánh dòn vị thơm ngon, bùi béo. Phù hợp làm bữa phụ cho những người ăn kiêng, tiểu đường, tiền tiểu đường. Phụ nữ tiểu đường thai kỳ, những người có rối loạn đường huyết",
+      "hot": 1,
+      "new": 1,
+      "comment": [],
+      "idloai": 1
+    },
+    {
+      "id": 8,
+      "name": "Bánh Richy mè đen Hàn Quốc",
+      "price": 41000,
+      "oldprice": 65000,
+      "img": "i13.png",
+      "des": "Giòn xốp và hương vị thơm ngon. Bánh giòn tan, vị ngọt thanh. Không chiên qua dầu, không chất bảo quản",
+      "hot": 0,
+      "new": 1,
+      "comment": [],
+      "idloai": 1
+    },
+    {
+      "id": 9,
+      "name": "Bánh mì yến mạch ăn kiêng",
+      "price": 10000,
+      "oldprice": 15000,
+      "img": "i14.png",
+      "des": "Bánh ăn kiêng yến mạch + mè đen Fine là sản phẩm nhập khẩu từ Malaysia, Bánh dòn vị thơm ngon, bùi béo. Phù hợp làm bữa phụ cho những người ăn kiêng, tiểu đường, tiền tiểu đường",
+      "hot": 0,
+      "new": 1,
+      "comment": [],
+      "idloai": 1
+    },
+    {
+      "id": 10,
+      "name": "Bánh sữa Long Thành Lothamilk",
+      "price": 29000,
+      "oldprice": 50000,
+      "des": "Sản phẩm tinh túy đặc biệt của Lothamilk, Được cô đặc từ nguồn sữa bò tươi thuần khiết nguyên chất. Hàm lượng dinh dưỡng trong 1 túi bánh sữa tương đương với 1/2 lít sữa tươi",
+      "img": "i15.png",
+      "hot": 0,
+      "new": 1,
+      "comment": [],
+      "idloai": 3
+    },
+    {
+      "id": 11,
+      "name": "Bánh quy trứng muối Đài Loan",
+      "price": 51000,
+      "oldprice": 85000,
+      "img": "i16.png",
+      "des": "Bánh quy trứng muối với vị mặn mặn, giòn giòn của lớp vỏ bánh thơm ngon, bên trong là loại kem mạch nha có vị trứng muối lạ miệng, hấp dẫn ngay từ những miếng đầu tiên.Đây là sản phẩm bánh nhập khẩu cao cấp trực tiếp từ Taiwan.",
+      "hot": 0,
+      "new": 1,
+      "comment": [],
+      "idloai": 4
+    },
+    {
+      "id": 12,
+      "name": "Bánh Quy Chocochip No Brand",
+      "price": 78000,
+      "oldprice": 120000,
+      "img": "i10.png",
+      "des": "Hương vị thơm ngon, giòn béo. Giúp bổ sung năng lượng và chất dinh dưỡng. Bánh được đóng hộp lịch sự, kín đáo. Dùng làm quà tặng, hay mang theo du lịch, dã ngoại",
+      "hot": 1,
+      "new": 0,
+      "comment": [],
+      "idloai": 4
+    },
+    {
+      "id": 13,
+      "name": "Bánh xốp Fullo Vani Sữa",
+      "price": 75000,
+      "oldprice": 135000,
+      "img": "i17.png",
+      "des": "Bánh xốp ống FULLO với lớp vỏ ngoài cực giòn tan, đầy đặn nhân Vani, Sữa hòa quyện mang đến vị ngon hài hòa, độc đáo",
+      "hot": 0,
+      "new": 0,
+      "comment": [],
+      "idloai": 3
+    },
+    {
+      "id": 14,
+      "name": "Bánh kem nhân trứng muối Đài Loan",
+      "price": 54000,
+      "oldprice": 80000,
+      "img": "i25.jpg",
+      "des": "Bánh thơm ngon, hòa nguyện nhân trứng muối. Trọng lượng: 500gr, Xuất xứ: Đài loan.",
+      "hot": 0,
+      "new": 0,
+      "comment": [],
+      "idloai": 2
+    },
+    {
+      "id": 15,
+      "name": "Bánh dừa nướng",
+      "price": 22000,
+      "oldprice": 35000,
+      "img": "i19.png",
+      "des": "Bánh dừa nướng hiệu Thái BÌnh nổi tiếng Quảng Nam Đà Nẵng, Bao bì nylon , bên trong có 12 thẻ bánh nhỏ. Bánh dòn, ngọt thơm mùi cơm dừa, thích hợp dùng với trà và cà phê.",
+      "hot": 0,
+      "new": 0,
+      "comment": [],
+      "idloai": 4
+    },
+    {
+      "id": 16,
+      "name": "Bánh gạo vị ngọt dịu One-One ",
+      "price": 35000,
+      "oldprice": 55000,
+      "img": "i20.png",
+      "des": "Bao bì sản phẩm có thể thay đổi theo nhà cung cấp. Chế biến từ những hạt gạo thơm ngon. Từng chiếc bánh có vị giòn rụm, ngọt thanh. Bánh gạo thích hợp làm món ăn vặt hấp dẫn",
+      "hot": 0,
+      "new": 0,
+      "comment": [],
+      "idloai": 3
+    },
+    {
+      "id": 17,
+      "name": "Bánh mì Pancake lúa mì",
+      "price": 25000,
+      "oldprice": 35000,
+      "img": "i21.jpg",
+      "des": "Phù hợp làm bữa phụ cho những người ăn kiêng, tiểu đường, tiền tiểu đường. Bánh mì sử dụng đường tư nhiên nên mùi vị nhẹ nhàng không gây ngán hoặc quá ngọt",
+      "hot": 0,
+      "new": 0,
+      "comment": [],
+      "idloai": 1
+    },
+    {
+      "id": 18,
+      "name": "Bánh mì nướng lá thảo hương",
+      "price": 50000,
+      "oldprice": 75000,
+      "img": "i22.jpg",
+      "des": "Bánh mì sử dụng các nguyên liệu tự nhiên như bột mì , bột bắp,vv... Và được nướng kèm lá thảo hương có mùi vị hòa nhã , không gây ngán khi ăn nhiều và tránh béo phì",
+      "hot": 0,
+      "new": 0,
+      "comment": [],
+      "idloai": 1
+    },
+    {
+      "id": 19,
+      "name": "Bánh mì hạt óc chó",
+      "price": 22000,
+      "oldprice": 39000,
+      "img": "i23.jpg",
+      "des": "Bánh được làm từ bột mì và trộn chung với hạt óc chó xay nhuyễn , giúp phát triển trí nhớ , ăn kèm chung với siro không đường sẽ ngon miệng hơn và không ngán",
+      "hot": 0,
+      "new": 0,
+      "comment": [],
+      "idloai": 1
+    },
+    {
+      "id": 20,
+      "name": "Bánh mì hương sữa bò",
+      "price": 22000,
+      "oldprice": 39000,
+      "img": "i24.jpg",
+      "des": "Được làm từ các thành phần tự nhiên gồm sữa bò , bột mì và không quá nhiều ca-lo nên khách hàng không lo về béo phì ",
+      "hot": 0,
+      "new": 0,
+      "comment": [],
+      "idloai": 1
+    },
+    {
+      "id": 21,
+      "name": "Bánh kem phũ Cheese Paris",
+      "price": 120000,
+      "oldprice": 180000,
+      "img": "i26.jpg",
+      "des": "Bánh thơm ngon, hòa nguyện phô mai từ pháp. Trọng lượng: 500gr, Xuất xứ: Paris-Pháp.",
+      "hot": 0,
+      "new": 0,
+      "comment": [],
+      "idloai": 2
+    },
+    {
+      "id": 22,
+      "name": "Bánh kem kèm trái cây topping",
+      "price": 100000,
+      "oldprice": 150000,
+      "img": "i27.jpg",
+      "des": "Bánh 100% từ các đầu bếp chuyên gia , trái cây tươi hòa quyện giúp tăng sự bắt mắt và ngon miệng",
+      "hot": 0,
+      "new": 0,
+      "comment": [],
+      "idloai": 2
+    },
+    {
+      "id": 23,
+      "name": "Bánh cookie hạt sen",
+      "price": 22900,
+      "oldprice": 45000,
+      "img": "i28.jpg",
+      "des": "Bánh cookie hạt sen hiệu Thái BÌnh nổi tiếng Quảng Nam Đà Nẵng, Bao bì nylon , bên trong có 12 thẻ bánh nhỏ. Bánh dòn, ngọt thơm mùi cơm dừa, thích hợp dùng với trà và cà phê.",
+      "hot": 0,
+      "new": 0,
+      "comment": [],
+      "idloai": 4
+    },
+    {
+      "id": 24,
+      "name": "Bánh quy nhân sữa ",
+      "price": 22900,
+      "oldprice": 45000,
+      "img": "i29.jpg",
+      "des": "Bánh quy nhân sữa xuất xứ từ các nhà hàng lớn , bên trong có 12 thẻ bánh nhỏ. Bánh dòn, ngọt thơm mùi cơm dừa, thích hợp dùng với trà và cà phê.",
+      "hot": 0,
+      "new": 0,
+      "comment": [],
+      "idloai": 4
+    }
+  ]
+}
