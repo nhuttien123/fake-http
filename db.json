@@ -1,6 +1,5 @@
 {
-  "loai": [
-    {
+  "loai": [{
       "id": 1,
       "name": "Bánh mì",
       "img": "i3.jpg",
@@ -29,8 +28,7 @@
       "anhien": 1
     }
   ],
-  "binhluan": [
-    {
+  "binhluan": [{
       "noidung": "asdads",
       "username": "Nhựt Tiến",
       "thoigian": "2021-08-05T15:55:31.180Z",
@@ -101,8 +99,7 @@
       "id": 10
     }
   ],
-  "giohang": [
-    {
+  "giohang": [{
       "tenkh": "Nhựt Tiến",
       "diachi": "Ho Chi Minh",
       "sdt": "0949814865",
@@ -151,13 +148,12 @@
       "id": 6
     }
   ],
-  "sanpham": [
-    {
+  "sanpham": [{
       "id": 1,
       "name": "Bánh vị phô mai",
       "price": 54000,
       "oldprice": 80000,
-      "img": "i5.png",
+      "img": "https://bizweb.dktcdn.net/thumb/large/100/366/378/products/9-2ae7523d-fdb0-4caf-bc36-12c51b43f1fc.png?v=1568946112757",
       "des": "Hương vị phô mai thơm ngon hấp dẫn,Đảm bảo vệ sinh an toàn thực phẩm. Bổ sung nguồn dinh dưỡng dồi dào",
       "hot": 0,
       "new": 0,
